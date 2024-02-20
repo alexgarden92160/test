@@ -1,0 +1,10 @@
+[
+  {
+    "name": "node",
+    "description": "NodeJS environnement"
+  },
+  {
+    "name": "python",
+    "description": "Python environnement"
+  }
+]
