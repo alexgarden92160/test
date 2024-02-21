@@ -1,3 +1,4 @@
 {
-  "Install Node.js": "RUN curl -sL https://deb.nodesource.com/setup_14.x | bash - && apt-get install -y nodejs"
+  "Install Node.js": "RUN curl -sL https://deb.nodesource.com/setup_14.x | bash - && apt-get install -y nodejs",
+  "Copy work": "Just add a new command for testing"
 }
