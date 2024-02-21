@@ -1,10 +1,12 @@
 [
   {
     "name": "node",
-    "description": "NodeJS environnement"
+    "description": "NodeJS environnement",
+    "version": "1.0"
   },
   {
     "name": "python",
-    "description": "Python environnement"
+    "description": "Python environnement",
+    "version": "1.0"
   }
 ]
