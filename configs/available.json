@@ -2,11 +2,11 @@
   {
     "name": "node",
     "description": "NodeJS environnement",
-    "version": "1.0"
+    "hash": "1.0"
   },
   {
     "name": "python",
     "description": "Python environnement",
-    "version": "1.0"
+    "hash": "1.0"
   }
 ]
